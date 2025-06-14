@@ -15,7 +15,35 @@ This project demonstrates end-to-end fraud detection analytics using synthetic f
 - 📁 CSV file format
 - 💻 macOS (Local)
 
-Group 5 
+## 📁 Files Included
+
+- `transactions_train.xlsx` — The original transaction dataset
+- `fraud_detection_pipeline.py` — Big Data processing with PySpark (model training)
+- `eda_fraud_analysis.py` — Visualizations & statistics in Python
+- `README.md` — This setup and usage guide
+
+---
+
+## ⚙️ Requirements
+
+Install dependencies with:
+
+```bash
+pip install pyspark pandas openpyxl seaborn matplotlib
+```
+
+---
+
+## 📌 Tips
+
+- Works in Jupyter, VSCode, or command-line
+- Change `nrows=600000` to load more data for deeper EDA
+- Ideal for datasets with high imbalance
+
+---
+
+
+## Group 5 - Contribution 
 
 - Bayu Jaya Karnadi
 - Dikshit Anand Nama
