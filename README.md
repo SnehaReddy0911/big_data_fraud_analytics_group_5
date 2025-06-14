@@ -15,13 +15,4 @@ Lay the foundation for building fraud detection models
 📁 CSV file format
 💻 macOS (Local)
 
-📁 Project Structure
-.
-├── notebooks/
-│   └── fraud_analysis.ipynb     # Main notebook for analysis
-├── data/
-│   └── synthetic_financial.csv  # Input data file
-├── README.md
-└── requirements.txt             # Python dependencies
-
 
