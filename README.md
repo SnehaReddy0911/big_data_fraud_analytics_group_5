@@ -23,7 +23,7 @@ This project demonstrates end-to-end fraud detection analytics using synthetic f
 - `README.md` — This setup and usage guide
 
 ---
-# Data Sources
+## Data Sources
 
 - https://www.kaggle.com/datasets/bannourchaker/frauddetection/data
 
