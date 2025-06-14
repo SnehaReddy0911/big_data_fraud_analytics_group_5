@@ -9,10 +9,10 @@ This project demonstrates end-to-end fraud detection analytics using synthetic f
 - Lay the foundation for building fraud detection models
 
 ⚙️ Technologies Used
-🐍 Python 3.11
-🔥 PySpark
-📓 Jupyter Notebook
-📁 CSV file format
-💻 macOS (Local)
+- 🐍 Python 3.11
+- 🔥 PySpark
+- 📓 Jupyter Notebook
+- 📁 CSV file format
+- 💻 macOS (Local)
 
 
