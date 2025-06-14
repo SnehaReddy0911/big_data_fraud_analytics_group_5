@@ -29,6 +29,13 @@ This project demonstrates end-to-end fraud detection analytics using synthetic f
 
 ___
 
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/be64832d-2b41-4b98-a3f1-1394330358f9)
+
+
+---
+
 ## ⚙️ Requirements
 
 Install dependencies with:
