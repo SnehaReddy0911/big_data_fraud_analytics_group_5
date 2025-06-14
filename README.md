@@ -15,4 +15,12 @@ This project demonstrates end-to-end fraud detection analytics using synthetic f
 - 📁 CSV file format
 - 💻 macOS (Local)
 
+Group 5 
+
+- Bayu Jaya Karnadi
+- Dikshit Anand Nama
+- Kripa Shakya
+- Omar Hasan Mohiuddin
+- Sneha Reddy Mogulla
+
 
