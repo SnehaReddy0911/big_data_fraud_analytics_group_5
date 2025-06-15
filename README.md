@@ -31,7 +31,7 @@ ___
 
 ## Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/be64832d-2b41-4b98-a3f1-1394330358f9)
+![image](https://github.com/user-attachments/assets/f414bf67-ab38-4ed0-bef7-6a81a97c3729)
 
 
 ---
